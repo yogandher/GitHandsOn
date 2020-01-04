@@ -1,0 +1,23 @@
+[33mcommit 95f9233dceb539e71f913b377bdb871a86326c1a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Yogandher Murali <Yogandher.Murali-ext@ab-Inbev.com>
+Date:   Sat Jan 4 07:26:55 2020 +0530
+
+    Commit in line changes
+
+[33mcommit 3967baa37c85a66fc3ec78ea5d8bdd8970bd42e8[m
+Author: yogandher <yogandher.7@gmail.com>
+Date:   Sat Jan 4 07:09:35 2020 +0530
+
+    test
+
+[33mcommit a598e17fa088c76f040eaa044fce51b74cba0659[m
+Author: Yogandher Murali <Yogandher.Murali-ext@ab-Inbev.com>
+Date:   Thu Jan 2 15:25:20 2020 +0530
+
+    my first commit
+
+[33mcommit 69f2839eb022dd8ef2b657688418da10561655d5[m
+Author: yogandher <yogandher.7@gmail.com>
+Date:   Thu Jan 2 13:10:26 2020 +0530
+
+    Initial commit
